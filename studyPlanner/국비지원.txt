@@ -1,0 +1,4 @@
+
+3/16 
+javaFX
+scenebuilder 설치  및 간단한 사용법.
