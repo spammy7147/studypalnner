@@ -3,4 +3,6 @@
 //아직 한다고 했지만 리눅스 떄문에 못한것..
 곧 comming soon..
 
-
+3/17
+spring framework 시작
+maven project 생성 + know what is maven + buildup for spring 

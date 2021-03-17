@@ -2,3 +2,6 @@
 3/16 
 javaFX
 scenebuilder 설치  및 간단한 사용법.
+
+3/17
+scenebuilder 사용 + controller 추가 + 실습

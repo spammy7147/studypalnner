@@ -4,5 +4,9 @@
 telnet, ssh, sftp, scp, vsftp, demon(setup), firewall-cmd, automount, nfs
 DNS(3/16완료)
 
+3/17
+httpd 패키지 설치중 오류.. (/etc/mime.types 의존성 해결) // mailcap 이란 패키지 필요.. 의존성 
+
+
 
 
