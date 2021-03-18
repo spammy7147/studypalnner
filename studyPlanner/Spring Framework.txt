@@ -9,4 +9,4 @@ maven project 생성 + know what is maven + buildup for spring
 
 3/18
 DI(Dependency Injection) + IOC 
-생성자 주입 | 세터 주입
+생성자 주입 | 세터 주입 | autowired 자동객체주입 기초
