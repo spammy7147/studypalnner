@@ -5,3 +5,7 @@ scenebuilder 설치  및 간단한 사용법.
 
 3/17
 scenebuilder 사용 + controller 추가 + 실습
+
+3/18
+Scenebuilder + controller | 씬빌더 요소를 FXMLLoader 객체에서 받아와서 가져오기
+

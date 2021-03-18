@@ -7,6 +7,8 @@ DNS(3/16완료)
 3/17
 httpd 패키지 설치중 오류.. (/etc/mime.types 의존성 해결) // mailcap 이란 패키지 필요.. 의존성 
 
+3/18
+httpd 설치 완료. httpd 설정파일 확인 // rootdiectory || port change || dns 이용한 ip 연동 확인 완료 
 
 
 
