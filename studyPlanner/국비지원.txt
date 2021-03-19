@@ -9,3 +9,5 @@ scenebuilder 사용 + controller 추가 + 실습
 3/18
 Scenebuilder + controller | 씬빌더 요소를 FXMLLoader 객체에서 받아와서 가져오기
 
+3/19
+Scenebuilder 를 이용한 간단한 로그인 + db연동 프로그램 (오류많음..ㅠㅠ)
