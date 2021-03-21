@@ -10,3 +10,7 @@ maven project 생성 + know what is maven + buildup for spring
 3/18
 DI(Dependency Injection) + IOC 
 생성자 주입 | 세터 주입 | autowired 자동객체주입 기초
+
+3/19 ~ 3/21 
+autowired, requestparam, modelattribute, model, redirectattributes
+학생점수 등록 | 학생 점수 개별 삭제 | 학생 점수 조회 | 학생점수 개별 조회 
