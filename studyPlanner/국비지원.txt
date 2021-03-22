@@ -11,3 +11,6 @@ Scenebuilder + controller | 씬빌더 요소를 FXMLLoader 객체에서 받아�
 
 3/19
 Scenebuilder 를 이용한 간단한 로그인 + db연동 프로그램 (오류많음..ㅠㅠ)
+
+3/22
+3/19일 해결하지 못한 오류의 이유를 알았음! 이제 잘 해결함! pieChart, areaChart, barChart  3개를 배움 
