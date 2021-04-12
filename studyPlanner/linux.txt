@@ -10,5 +10,6 @@ httpd 패키지 설치중 오류.. (/etc/mime.types 의존성 해결) // mailcap
 3/18
 httpd 설치 완료. httpd 설정파일 확인 // rootdiectory || port change || dns 이용한 ip 연동 확인 완료 
 
-
+스프링 시작으로 리눅스 잠시 스탑
+다른거 하고 다시 돌아온다
 

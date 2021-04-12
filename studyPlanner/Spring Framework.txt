@@ -13,4 +13,13 @@ DI(Dependency Injection) + IOC
 
 3/19 ~ 3/21 
 autowired, requestparam, modelattribute, model, redirectattributes
-학생점수 등록 | 학생 점수 개별 삭제 | 학생 점수 조회 | 학생점수 개별 조회 
+학생점수 등록 | 학생 점수 개별 삭제 | 학생 점수 조회 | 학생점수 개별 조회
+
+3/21 ~ 4/12
+interceptor
+spring-security : 비밀번호 암호화
+JQuery
+ajax 을 이용한 비동기화 통신
+JSON RESTFUL 하게 데이터 전송
+
+레거시 프로잭트 기초 완료!
